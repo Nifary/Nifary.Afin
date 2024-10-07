@@ -1,5 +1,4 @@
 # Nifary.Afin
-Hello, Brethren. Take a look around as you please.
 <h1 align="center">Hi 👋, I'm Nifary Afin</h1>
 <h3 align="center">Front-End Developer from Indonesia</h3>
 
